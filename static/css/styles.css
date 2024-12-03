@@ -21,7 +21,7 @@ body {
 
 /* Encabezado */
 header {
-    background-color: #28a745; /* Color verde */
+    background-color: #aa1d7bda;
     padding: 15px 20px;
     color: #fff;
     position: sticky;
@@ -118,14 +118,14 @@ form input[type="email"]:focus,
 form input[type="password"]:focus,
 form input[type="number"]:focus,
 form textarea:focus {
-    border-color: #28a745;
+    border-color: #aa1d7bda;
     outline: none;
 }
 
 form input[type="submit"],
 form button {
     width: 100%;
-    background-color: #28a745;
+    background-color: #aa1d7bda;
     color: #fff;
     padding: 15px;
     border: none;
@@ -136,13 +136,13 @@ form button {
 
 form input[type="submit"]:hover,
 form button:hover {
-    background-color: #218838;
+    background-color: #aa1d7bda;
 }
 
 /* Botones */
 .button {
     display: inline-block;
-    background-color: #28a745;
+    background-color: #aa1d7bda;
     color: #fff;
     padding: 12px 20px;
     border-radius: 5px;
@@ -155,7 +155,7 @@ form button:hover {
 }
 
 .button:hover {
-    background-color: #218838;
+    background-color: #aa1d7bda;
 }
 
 .button-danger {
@@ -189,7 +189,7 @@ form button:hover {
 }
 
 .message.success {
-    background-color: #28a745;
+    background-color: #aa1d7bda;
     color: #fff;
 }
 /* Campo de búsqueda */
@@ -206,7 +206,7 @@ form button:hover {
 
 #search-input:focus {
     outline: none;
-    border-color: #28a745;
+    border-color: #aa1d7bda;
 }
 
 /* Grid de productos */
@@ -256,7 +256,7 @@ form button:hover {
 
 .product-card a {
     text-decoration: none;
-    color: #28a745;
+    color: #aa1d7bda;
 }
 
 .product-card a:hover {
